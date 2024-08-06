@@ -1,0 +1,20 @@
+.dashboardcontainer{
+    display:flex;
+}
+.herocontent{
+    width:100%;
+}
+.cards{
+    display:flex;
+    width:100%;
+    justify-content:space-between;
+    align-items:center;
+    padding:40px;
+}
+.tasks{
+    padding:5px 40px;
+}
+.tasks p{
+    font-weight:900;
+    font-size:x-large;
+}

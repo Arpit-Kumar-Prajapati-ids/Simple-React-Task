@@ -1,0 +1,13 @@
+.cardcontainer{
+    /* border:3px solid black; */
+    width:23%;
+    padding:25px;
+    border-radius:20px;
+    /* background-color:rgb(78, 240, 164); */
+}
+.cardcontainer p{
+    font-size:xx-large;
+    font-weight:900;
+    color:white;
+
+}

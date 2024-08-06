@@ -1,0 +1,27 @@
+.topsectioncontainer{
+    /* border:3px solid black; */
+    width:100%;
+    padding:27px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+.greetings p{
+    font-weight:bold;
+    font-size:x-large;
+}
+.btns button{
+    padding:8px 20px;
+    border:none;
+    background-color:black;
+    color:white;
+    border-radius:10px;
+    cursor:pointer;
+    transition:0.3s;
+    margin-left:10px;
+}
+.btns button:hover{
+    background-color:rgb(226, 226, 226);
+    color:black;
+}
+
